@@ -7,9 +7,9 @@ colors.get_colors = function()
         vscFront = '#D4D4D4',
         vscBack = '#1E1E1E',
 
-        vscTabCurrent = '#1E1E1E',
-        vscTabOther = '#2D2D2D',
-        vscTabOutside = '#252526',
+        vscTabCurrent = '#000000',
+        vscTabOther = '#222222',
+        vscTabOutside = '#000000',
 
         vscLeftDark = '#000000',
         vscLeftMid = '#373737',
@@ -21,7 +21,7 @@ colors.get_colors = function()
         vscPopupHighlightGray = '#343B41',
 
         vscSplitLight = '#898989',
-        vscSplitDark = '#444444',
+        vscSplitDark = '#000000',
         vscSplitThumb = '#424242',
 
         vscCursorDarkDark = '#222222',
@@ -52,7 +52,7 @@ colors.get_colors = function()
         vscContext = '#404040',
         vscContextCurrent = '#707070',
 
-        vscFoldBackground = '#202d39',
+        vscFoldBackground = '#111111',
 
         -- Syntax colors
         vscGray = '#808080',

@@ -5,10 +5,10 @@ local vscode = {}
 local colors = {}
 
 if vim.o.background == 'dark' then
-    colors.inactive = '#666666'
-    colors.bg = '#262626'
-    colors.bg2 = '#373737'
-    colors.fg = '#ffffff'
+    colors.inactive = '#000000'
+    colors.bg = '#000000'
+    colors.bg2 = '#111111'
+    colors.fg = '#cccccc'
     colors.red = '#f44747'
     colors.green = '#4EC9B0'
     colors.blue = '#0a7aca'
